@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/layoutwork/static/css/main.ff568d7d.chunk.css",
+    "main.js": "/layoutwork/static/js/main.b9f2b960.chunk.js",
+    "main.js.map": "/layoutwork/static/js/main.b9f2b960.chunk.js.map",
+    "runtime-main.js": "/layoutwork/static/js/runtime-main.7728d27a.js",
+    "runtime-main.js.map": "/layoutwork/static/js/runtime-main.7728d27a.js.map",
+    "static/js/2.0571d26f.chunk.js": "/layoutwork/static/js/2.0571d26f.chunk.js",
+    "static/js/2.0571d26f.chunk.js.map": "/layoutwork/static/js/2.0571d26f.chunk.js.map",
+    "index.html": "/layoutwork/index.html",
+    "precache-manifest.13dd0766073c007295559bd242d4ed84.js": "/layoutwork/precache-manifest.13dd0766073c007295559bd242d4ed84.js",
+    "service-worker.js": "/layoutwork/service-worker.js",
+    "static/css/main.ff568d7d.chunk.css.map": "/layoutwork/static/css/main.ff568d7d.chunk.css.map",
+    "static/js/2.0571d26f.chunk.js.LICENSE": "/layoutwork/static/js/2.0571d26f.chunk.js.LICENSE",
+    "static/media/bg-curvy-desktop.svg": "/layoutwork/static/media/bg-curvy-desktop.376a8b95.svg",
+    "static/media/icon-access-anywhere.svg": "/layoutwork/static/media/icon-access-anywhere.5f4b8b3e.svg",
+    "static/media/icon-any-file.svg": "/layoutwork/static/media/icon-any-file.aedb3ae0.svg",
+    "static/media/icon-arrow.svg": "/layoutwork/static/media/icon-arrow.794c5a48.svg",
+    "static/media/icon-collaboration.svg": "/layoutwork/static/media/icon-collaboration.ca8c71cf.svg",
+    "static/media/icon-email.svg": "/layoutwork/static/media/icon-email.c90d96c2.svg",
+    "static/media/icon-location.svg": "/layoutwork/static/media/icon-location.0f65814b.svg",
+    "static/media/icon-phone.svg": "/layoutwork/static/media/icon-phone.47e54a44.svg",
+    "static/media/icon-security.svg": "/layoutwork/static/media/icon-security.f5585378.svg",
+    "static/media/illustration-intro.png": "/layoutwork/static/media/illustration-intro.526544ae.png",
+    "static/media/illustration-stay-productive.png": "/layoutwork/static/media/illustration-stay-productive.99294b1f.png",
+    "static/media/logo.svg": "/layoutwork/static/media/logo.c71bf7bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7728d27a.js",
+    "static/js/2.0571d26f.chunk.js",
+    "static/css/main.ff568d7d.chunk.css",
+    "static/js/main.b9f2b960.chunk.js"
+  ]
+}
